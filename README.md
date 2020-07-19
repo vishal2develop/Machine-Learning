@@ -1,2 +1,2 @@
 # Machine-Learning
-Personal Machine Learning Projects
+Machine Learning Projects
